@@ -1,0 +1,13 @@
+.banner{
+    background: aqua;
+    text-align: center;
+    position: relative;
+    width: 50%;
+    height: none;
+    padding: 10px 20px;
+    border: 2px solid black;
+}
+.button{
+    color: black;
+    text-align: center;
+}

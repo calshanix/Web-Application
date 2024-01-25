@@ -1,0 +1,50 @@
+.banner{
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 10 px;
+    width: 500px;
+    height: 100vh;
+}
+body{
+    background-color: moccasin;
+    display: flex;
+    justify-content: center;
+}
+.banner h1{font-family: Chandas;
+    color: blue;
+    text-align:  center;
+    text-decoration: underline;
+    min-height: 400;
+
+}
+.banner input{
+    width: 70 %;
+    position :relative;
+    margin: 10px 20px;
+    height: 20px;
+    border: none;
+    outline: none;
+    padding: 51;
+    border: 2px solid black;
+    border-radius: 5px;
+    background: transparent;
+
+}
+.button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10 px;
+    color: black;
+}
+. banner label{
+
+}
+.button{
+    padding: 10px 20px;
+    width: 70%;
+    color: white;
+    background: blueviolet;
+    border-radius: 5px;
+
+}
